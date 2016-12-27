@@ -1,0 +1,12 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\NCalc.dll
+C:\Users\Jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Jonathan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\NCalc.pdb
